@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1527439940 source:d:\codeblocks\aaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1528048403 source:c:\users\razvan cismaru\desktop\proiect razvan cismaru\rodcut varianta 1 principala\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
